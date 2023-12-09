@@ -24,7 +24,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kjur0&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454&card_width=400&disable_animations=true)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjur0&theme=transparent&hide_border=true&show_icons=true&hide_title=true&hide_rank=true&show=discussions_started,prs_merged&hide=contribs&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
