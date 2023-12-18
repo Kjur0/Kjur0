@@ -2,7 +2,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg" height=40 width=40 alt="Azure">
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/googlecloud/googlecloud-original.svg" height=40 width=40 alt="Google Cloud">
